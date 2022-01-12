@@ -1,0 +1,28 @@
+[[TempestModel]]
+arch = "x86_64"
+git-tree-sha1 = "9ebd4021d5e6f1541d15a305750488ae513e8931"
+os = "macos"
+
+    [[TempestModel.download]]
+    sha256 = "648721689bdc0c4ef765e739c2cda4f2805241f3ca29243fbaa0a3579b176501"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.0+0/TempestModel.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[TempestModel]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a4471435557f6874d58b3b7f30fe3a067b27484a"
+libc = "glibc"
+os = "linux"
+
+    [[TempestModel.download]]
+    sha256 = "297a77f3b4c006056d16b28187bdb2e0a0fb25b516bd0629769f69a2b6932c58"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.0+0/TempestModel.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[TempestModel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a79f5f399f60db7286efc4dc7d4395b61bdf3d16"
+libc = "glibc"
+os = "linux"
+
+    [[TempestModel.download]]
+    sha256 = "45eb3557021fb2debf9cd2f43c973840e2b85fa2c48c3d1732a5d491b80dc346"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.0+0/TempestModel.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"

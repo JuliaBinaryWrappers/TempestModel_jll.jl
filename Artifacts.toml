@@ -1,102 +1,102 @@
 [[TempestModel]]
 arch = "x86_64"
-git-tree-sha1 = "acff986024fd2d8fc10f1c605899cac76d52ae63"
+git-tree-sha1 = "330cf1ae879077f3bf5fd7b8f939af8af639e501"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[TempestModel.download]]
-    sha256 = "67196fbaebb4348b6dc38c642a4d918e9dec7a774848595567141319cd6d68a6"
-    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.1+0/TempestModel.v0.1.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "84786f1ebbcf0966f881a999f8435b3feedd86fd50b306e85bff6196154d6bc2"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.2+0/TempestModel.v0.1.2.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[TempestModel]]
 arch = "x86_64"
-git-tree-sha1 = "c79c50c42058794feb8cc2ca5373fc5832ac27a4"
+git-tree-sha1 = "da0f8d6979bdcb956cc3e216afb83ca2ce75ebde"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[TempestModel.download]]
-    sha256 = "9f042776579dc8758116aeefb62ed04015aa97cb4ebf772b357903755cbfa8c1"
-    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.1+0/TempestModel.v0.1.1.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "9fb7d0bc3182c1a2dc89dca109cb6a29ee623033dbd527abc2ca521d4a25b76d"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.2+0/TempestModel.v0.1.2.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[TempestModel]]
 arch = "x86_64"
-git-tree-sha1 = "bd4fc981c3ef6231af3a6a0216930dc18219a5c5"
+git-tree-sha1 = "eaef000ef9fd1dddf35c6704b4331ce76d2f10a0"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[TempestModel.download]]
-    sha256 = "bb470798cc45026147f90615adda85ada09318e42798c1363f29108baa7627e3"
-    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.1+0/TempestModel.v0.1.1.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "465f51e2510d1f4f4d9f20047da1fc1d51ff00d1085785a7a1e6b1400a69689e"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.2+0/TempestModel.v0.1.2.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[TempestModel]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d5887ca0264da29cc5ded5dae36d3cb648e0aab8"
-lazy = true
-libc = "glibc"
-mpi = "mpich"
-os = "linux"
-
-    [[TempestModel.download]]
-    sha256 = "321bde8a73142d2ffd3166f56edaab9f8df98e8d24c6504f62aa6ececb85eea7"
-    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.1+0/TempestModel.v0.1.1.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
-[[TempestModel]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "21d91a20d7ddf68aa38238c22c06e285bb299edf"
-lazy = true
-libc = "glibc"
-mpi = "mpitrampoline"
-os = "linux"
-
-    [[TempestModel.download]]
-    sha256 = "c3046fce2e18a14891bb65e44baa60b6a1c5b6ede5b65c830845b45162245775"
-    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.1+0/TempestModel.v0.1.1.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
-[[TempestModel]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "4cf957a9a0ac9f19d70a31a498c742f6a792f40e"
-lazy = true
-libc = "glibc"
-mpi = "openmpi"
-os = "linux"
-
-    [[TempestModel.download]]
-    sha256 = "a8e16a20bcfd4ac3fd7bbb501717c647a4fd6c24fc0c1c15f6b6f6898b5469ff"
-    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.1+0/TempestModel.v0.1.1.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
-[[TempestModel]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "08bad6c99a4f9b1c9ea2b7b2ef860bd034dac28d"
+git-tree-sha1 = "e0d55ba5016f7f2ba20d2786199cd4e0457c8a89"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[TempestModel.download]]
-    sha256 = "98180d2239ae8eeb6242173d58d6d3dbd90650cbee5ff4040b742e7b017a3811"
-    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.1+0/TempestModel.v0.1.1.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "c6c92b517b244b5c7c975cbfae2319c81d101f1bb8c3ac096d0ff9ae28e9f6c8"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.2+0/TempestModel.v0.1.2.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[TempestModel]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "62114d0e84da4bc24c887157cdc95c554e923d8c"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a9b8da022446101efc3d81f52339fea628a97c5c"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[TempestModel.download]]
-    sha256 = "88d9759acb23fa9f2b51514ecc26e0a67f4fa9ac2f239c54b8e3329e5dd2134c"
-    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.1+0/TempestModel.v0.1.1.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "77d9e786f0c55bb1f141a7483726bc13a08062f456b1cf4913476a4f7c82fdb5"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.2+0/TempestModel.v0.1.2.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[TempestModel]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "c643995b8629018e5aacc89e7f139ac86e0ddc93"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d3bb941022e40722817e5b71be0bcdb3a5a339b2"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[TempestModel.download]]
-    sha256 = "847014b1f64a861c9053173b1fb3eb4f1d6f3779b10821d4a2ce5128623ce39f"
-    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.1+0/TempestModel.v0.1.1.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "f1097ca334289723c779534844ecd90f6764abad33f764c923c374b4eb24980d"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.2+0/TempestModel.v0.1.2.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+[[TempestModel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2cebb1844cd1b8a33136e8395027b88687e8a38c"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[TempestModel.download]]
+    sha256 = "2849f89bf066fc0260d6df9aba61f42ce31a5129d82b533298035a9e11cf3e43"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.2+0/TempestModel.v0.1.2.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+[[TempestModel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "89474b6b7b25767790740ef51b04cb377c8c6166"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TempestModel.download]]
+    sha256 = "35e24770517d2fe63efde24b2ecb101b8fb68d9a6816a60e3b00c3c902184637"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.2+0/TempestModel.v0.1.2.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+[[TempestModel]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "264d09da050a77e9899bf43454013bab13dd4936"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[TempestModel.download]]
+    sha256 = "52e8d8e32c4dd6ad6c5e8e7bb4217980bfc1db49e05f37c0de7fdef8201cb236"
+    url = "https://github.com/JuliaBinaryWrappers/TempestModel_jll.jl/releases/download/TempestModel-v0.1.2+0/TempestModel.v0.1.2.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"

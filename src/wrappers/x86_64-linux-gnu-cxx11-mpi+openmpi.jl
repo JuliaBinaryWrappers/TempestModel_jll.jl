@@ -5,7 +5,6 @@ using MKL_jll
 using NetCDF_jll
 using HDF5_jll
 using OpenMPI_jll
-using MPIPreferences
 JLLWrappers.@generate_wrapper_header("TempestModel")
 JLLWrappers.@declare_executable_product(BaldaufGravityWaveTest_exe)
 JLLWrappers.@declare_executable_product(Baroclinic3DCartesianRidgeTest_exe)
